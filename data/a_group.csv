@@ -1,0 +1,248 @@
+name,type,customer_id,address,phone,latitude,longitude
+Gömrük Hospitalının Apteki,PHARMACY,49861,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Kazım Kazımzadə küç.118, AZ1000",994 55 455 69 51,40.3783417,49.8157959
+AzəriMed-Kanon Oskar,PHARMACY,51268,"Azərbaycan Respublikası, Bakı, Binəqədi r-nu, Mir Cəlal küç.72, AZ1000",994 55 455 85 74,40.4209595889113,49.8148467690126
+AzəriMed-Kanon Səma,PHARMACY,51269,"Azərbaycan Respublikası, Bakı, Binəqədi r-nu, Şövkət Məmmədova küç.32, AZ1000",994 55 455 85 46,40.421414519883,49.8463232690126
+AzəriMed-Kanon Viktoriya,PHARMACY,51271,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Təbriz küç.17, AZ1000",994 55 455 85 64,40.3879579733829,49.8522513690373
+AzəriMed-Zəfəran 5 saylı xəstəxana,PHARMACY,51272,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Fətəli Xan Xoyski küç.130, AZ1000",994 55 455 88 02,40.4030551451771,49.8625555555188
+AzəriMed-Kanon Semaşko,PHARMACY,51273,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Mirəsədulla Mirqasımov küç.2, AZ1000",994 55 455 85 39,40.3941096157195,49.8349245843803
+AzəriMed-Kanon Vitamin,PHARMACY,51274,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Hüseynbala Əliyev küç.4, AZ1000",994 55 455 87 85,40.4109252996611,49.8172773248597
+AzəriMed-Kanon Ferromed,PHARMACY,51277,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Qara Qarayev pr,26, AZ1000",994 55 455 85 97,40.4176338353684,49.9319567536956
+AzəriMed-Kanon Favorit,PHARMACY,51278,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Bakıxanov qəs.,Sülh küç.1D, AZ1000",994 55 455 85 72,40.4178923603822,49.9604119978482
+AzəriMed-Kanon Naturalist,PHARMACY,51279,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Əhməd Cavad küç.22, AZ1000",994 55 455 85 37,40.36987942793,49.8344882536942
+AzəriMed-Zəfəran XMSK,PHARMACY,51280,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Badamdar şossesi 31, AZ1000",994 55 455 81 63,40.3529930114746,49.8091201782226
+AzəriMed-Zəfəran Neftçilər,PHARMACY,51281,"Azərbaycan Respublikası, Bakı, Xətai r-nu, M.Mehdizadə və Y.Səfərov küç. kəsişməsi, AZ1000",994 55 455 88 01,40.3805190238593,49.8638801693156
+AzəriMed-Kanon Okean,PHARMACY,51283,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Bəsti Bağırova küç.14, AZ1000",994 55 455 85 73,40.3842489814834,49.8251969843799
+AzəriMed-Kanon Lutemax,PHARMACY,51284,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Abbas Mirzə Şərifzadə küç.314, AZ1000",994 55 455 85 38,40.3822000215592,49.8044049690373
+"AzəriMed-Zəfəran ""20 Yanvar""",PHARMACY,51285,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Müzəffər Həsənov küç.1, AZ1000",994 55 455 69 51,40.4042120281025,49.8063161690379
+AzəriMed-Kanon Balzam,PHARMACY,51286,"Azərbaycan Respublikası, Xırdalan şəhəri, M.Ə.Rəsulzadə küç.1",994 55 455 81 26,40.4535065301217,49.7504811402038
+AzəriMed-Zəfəran Mərdəkan,PHARMACY,51287,"Azərbaycan Respublikası, Bakı, Xəzər r-nu, Mərdəkan qəs., AZ1000",994 55 455 90 78,40.4871118763139,50.1648227825334
+AzəriMed-Zəfəran Primorsk,PHARMACY,51288,"Azərbaycan Respublikası, Bakı, Qaradağ r-nu, Sahil qəs.,Məhərrəm Seyidov küç., AZ1000",994 55 455 90 93,40.2298231466725,49.5818103978683
+AzəriMed-Zəfəran Lökbatan,PHARMACY,51289,"Azərbaycan Respublikası, Bakı, Qaradağ r-nu, Lökbatan qəs.,28 May küç., AZ1000",994 55 455 89 10,40.3219896279471,49.7330250113384
+AzəriMed-Zəfəran Sumqayıt,PHARMACY,51291,"Azərbaycan Respublikası, Sumqayıt, Heydər Əliyev pr.,məhəllə 40, AZ5000",994 55 455 89 00,40.5839798482589,49.6731244248649
+AzəriMed-Zəfəran Bərdə,PHARMACY,51292,"Azərbaycan Respublikası, Bərdə, Üzeyir Hacıbəyov küç.3, AZ0900",994 55 455 87 99,40.3728159882696,47.1260759825045
+AzəriMed-Zəfəran Mingəçevir,PHARMACY,51295,"Azərbaycan Respublikası, Mingəçevir, Heydər Əliyev pr., AZ4500",994 55 455 58 12,40.7647467362729,47.0620098248454
+AzəriMed-Kanon Almaz,PHARMACY,51297,"Azərbaycan Respublikası, Xaçmaz, Nəriman Nərimanov küç.47, AZ2700",994 55 455 85 96,41.4614832035721,48.7992184978801
+Varitex (tibbi ləvazimat),PHARMACY,61000,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Səməd Vurğun küç.156D, AZ1000",994 12 441 54 51,40.39768210891968,49.83342719782411
+Medicom (tibbi ləvazimat),PHARMACY,61001,"Azərbaycan Respublikası, Bakı, Ağ Şəhər,Paris evləri,Yaşıl Ada küç.1, AZ1000",994 55 409 36 63,40.38027991493886,49.8822166399426
+MediClub Apteki,PHARMACY,67605,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Üzeyir Hacıbəyli küç.119, AZ1000",994 50 220 48 29,40.3760943930241,49.8560428274371
+AzəriMed-Kanon Qönçə,PHARMACY,67687,"Azərbaycan Respublikası, Gəncə, Heydər Əliyev pr. ilə Atatürk pr.kəsişməsi , AZ2000",994 55 455 85 49,40.69775753008175,46.36125165367889
+AzəriMed-Kanon Stimol,PHARMACY,67688,"Azərbaycan Respublikası, Sumqayıt, Sülh küç.27D, AZ5000",994 55 455 85 63,40.5872089756899,49.6707269843862
+AzəriMed-Kanon Lənkəran,PHARMACY,67690,"Azərbaycan Respublikası, Lənkəran, Həzi Aslanov küç, AZ4200",994 55 455 85 69,38.7549443631431,48.8520129112917
+AzəriMed-Kanon Xəmsə,PHARMACY,67692,"Azərbaycan Respublikası, Mingəçevir, Heydər Əliyev pr.51Q , AZ4500",994 55 455 85 47,40.7683360532829,47.0562259266944
+AzəriMed-Zəfəran Quba,PHARMACY,67693,"Azərbaycan Respublikası, Quba, Heyder Əliyev pr., AZ4000",994 55 455 88 50,41.3620851398386,48.5242305979031
+AzəriMed-Zəfəran Qusar,PHARMACY,67694,"Azərbaycan Respublikası, Qusar, Səfixan küç.,Mərkəzi xəstəxananın yanı, AZ3800",994 55 455 87 88,41.4245760301556,48.4473755267407
+AzəriMed-Zəfəran Şirvan,PHARMACY,67695,"Azərbaycan Respublikası, Şirvan, Nəriman Nərimanov küç.2A, AZ1800",994 55 455 87 47,39.9520717334157,48.9389975113272
+AzəriMed-Kanon Immuno,PHARMACY,67698,"Azərbaycan Respublikası, İmişli, Heydər Əliyev pr.164 A, AZ3000",994 55 455 90 57,39.8701196811795,48.0604112113249
+Buta Bayıl-2,PHARMACY,85274,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Ə.Yaqubov küç.6, AZ1000",994 55 208 00 86,40.34077621249385,49.83685039281965
+Vita Badamdar,PHARMACY,85275,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Badamdar qəs.,T.Məmmədov küç.8, AZ1000",994 55 203 87 86,40.3371986854426,49.8053778555168
+Dokta Caspian,PHARMACY,85277,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Bül-Bül pr.16A, AZ1000",994 51 333 04 07,40.3721602555133,49.8448436843797
+Zeytun Vitamin Gəncə,PHARMACY,85279,"Azərbaycan Respublikası, Gəncə, Əlövsət Məmmədov küç.14B, AZ2000",994 55 222 89 44,40.6661758422851,46.3535499572753
+AzəriMed-Zəfəran Şəki,PHARMACY,85280,"Azərbaycan Respublikası, Şəki, Məmməd Əmin Rəsulzadə prospekti, AZ5500",994 55 455 89 63,41.198481033949,47.1739410978981
+AzəriMed-Zəfəran Viləş (Masallı),PHARMACY,85282,"Azərbaycan Respublikası, Masallı, M.Talışxanov küç.3, AZ4400",994 55 455 58 75,39.0258262740219,48.6656113112995
+AzəriMed-Kanon Biləsuvar,PHARMACY,85283,"Azərbaycan Respublikası, Biləsuvar, Heydər Əliyev küç.40 E, AZ1300",994 55 455 89 68,39.4545995604547,48.5468466266807
+AzəriMed-Zəfəran Qazax,PHARMACY,85286,"Azərbaycan Respublikası, Qazax, Heydər Əliyev küç.71, AZ3500",994 55 455 81 69,41.0980257240705,45.3784893267044
+AzəriMed-Zəfəran Qəbələ,PHARMACY,85287,"Azərbaycan Respublikası, Qəbələ, Heydər Əliyev pr., AZ3600",994 55 455 91 75,40.9754075824334,47.8439957267268
+Buta Əhmədli,PHARMACY,85289,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Məzahir Rüstəmov küç. 22, AZ1000",994 55 252 22 70,40.3844306119064,49.9617578555181
+Vita Zabrat,PHARMACY,85290,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Zabrat qəs.,Babək küç.94A, AZ1000",994 55 255 51 16,40.4756159137078,49.9496619113432
+Buta Mərdəkan,PHARMACY,85291,"Azərbaycan Respublikası, Bakı, Xəzər r-nu, Mərdəkan qəs.,S.Yesenin küç.,2-ci döngə, AZ1000",994 55 224 58 59,40.4871482849121,50.1641998291015
+Vita Əcəmi-1,PHARMACY,85293,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, M.Cəfərov küç.16, AZ1000",994 55 505 48 47,40.409309250020016,49.81325112543714
+AzəriMed Günəbaxan,PHARMACY,134856,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Firuddin Ağayev küç.5, AZ1000",994 55 455 56 38,40.3753051757812,49.8122482299804
+AzəriMed-Kanon İzmir,PHARMACY,134857,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Əbdürrəhim bəy Haqverdiyev küç.11, AZ1000",994 55 455 58 16,40.3803635,49.8165436
+AzəriMed-Kanon General,PHARMACY,134861,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Xudu Məmmədov küç.32 A, AZ1000",994 55 455 81 07,40.3709526,49.953476
+MediClub Kids Apteki,PHARMACY,134863,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Izzət Nəbiyev küç.30A, AZ1000",994 12 525 09 19,40.3588218688964,49.8229446411132
+Zeytun Sahil-313,PHARMACY,134864,"Azərbaycan Respublikası, Bakı, Sahil qəs.,Emin Quliyev küç.50, AZ1000",994 77 376 10 10,40.2246399,49.5807915
+Zeytun Qəbələ,PHARMACY,134871,"Azərbaycan Respublikası, Qəbələ, Heydər Əliyev pr.,Ismayılbəy Qutqaşınlı küç.357, AZ3600",994 50 734 88 99,40.9818611145019,47.8494148254394
+AzəriMed-Kanon Simurq,PHARMACY,139233,"Azərbaycan Respublikası, Bakı, Suraxanı r-nu, AB yaşayış sahəsi,Yeni Günəşli qəs.ev50, AZ1000",994 55 900 75 43,40.3775177001953,49.9780120849609
+AzəriMed-Kanon Nəsir,PHARMACY,139234,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Asif Məmmədov küç.30D, AZ1000",994 55 455 81 43,40.3940696716308,49.8809814453125
+Dokta Gəncə,PHARMACY,155254,"Azərbaycan Respublikası, Gəncə, Nizami küç.46, AZ2000",994 51 540 12 65,40.680248260498,46.362564086914
+Dokta Qəbələ,PHARMACY,155259,"Azərbaycan Respublikası, Qəbələ, Heydər Əliyev pr., AZ3600",994 70 576 34 76,40.9800987,47.8454132
+Dokta Zaqatala,PHARMACY,155263,"Azərbaycan Respublikası, Zaqatala, Vidadi küç.15, AZ6200",994 77 508 11 22,41.62890625,46.6421470642089
+Medical City Aptek,PHARMACY,156327,"Azərbaycan Respublikası, Bakı, Fizuli küç.41 A, AZ1000",994 70 594 25 05,40.3773804,49.8350373
+Dokta Sumqayıt,PHARMACY,159927,"Azərbaycan Respublikası, Sumqayıt, 6-cı mkr.,Kristal Abşeron, AZ5000",994 55 649 72 16,40.5805817,49.6875801
+Buta Azadlıq,PHARMACY,203901,"Azərbaycan Respublikası, Bakı, Binəqədi r-nu, Süleyman Sani Axundov küç.66, AZ1000",994 55 333 13 68,40.4251709,49.8418389
+AzəriMed - Zəfəran Göyçay,PHARMACY,206266,"Azərbaycan Respublikası, Göyçay, Heydər Əliyev prospekti ev 53 A, AZ2300",994 55 455 81 65,40.649131433330524,47.74800001888711
+AzəriMed-Zəfəran Bakıxanov,PHARMACY,213120,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Gənclər küç.27 C, AZ1000",994 12 428 96 03,40.410350920369766,49.969172645695416
+Dokta Xırdalan,PHARMACY,214807,"Azərbaycan Respublikası, Xırdalan şəhəri, Heydər Əliyev pr.240",994 55 785 35 15,40.450722,49.74437
+Azərimed-Kanon Xan,PHARMACY,217332,"Azərbaycan Respublikası, Naxçıvan, Əziz Əliyev küç.19, AZ7000",994 50 250 27 07,39.205898,45.423573
+Zeytun Əhmədli,PHARMACY,217349,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Məhəmməd Hadi küç.,Əhmədli metro st., AZ1000",994 51 215 93 03,40.38625,49.954029
+Zeytun Nərimanov 1,PHARMACY,217350,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Təbriz küç.,Nərimanov metro st., AZ1000",994 50 273 11 97,40.403202,49.871365
+Zeytun Elmlər Akademiyası,PHARMACY,217351,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Hüseyn Cavid pr.33A,Elmlər Akademiyası metro st., AZ1000",994 50 273 11 91,40.375183,49.815598
+Zeytun Koroğlu 1,PHARMACY,217352,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Heydər Əliyev pr.,Koroğlu metro st., AZ1000",994 51 250 19 29,40.420967,49.918289
+Zeytun 20 Yanvar,PHARMACY,217353,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, 20 Yanvar meydanı,20 Yanvar metro st., AZ1000",994 51 225 15 75,40.404289,49.808395
+Zeytun Qarayev,PHARMACY,217354,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Qara Qarayev pr.,metro st.çıxışı, AZ1000",994 50 273 11 90,40.41777,49.933002
+Zeytun Gənclik 1,PHARMACY,217355,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Fətəli Xan Xoyski pr.,Gənclik metro st., AZ1000",994 50 273 11 95,40.400848,49.85252
+Zeytun Azadlıq,PHARMACY,217356,"Azərbaycan Respublikası, Bakı, Binəqədi r-nu, Süleyman Sani Axundov küç.,Azadlıq metro st., AZ1000",994 51 225 14 43,40.425518,49.840687
+Zeytun Gənclik 2,PHARMACY,217357,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Fətəli Xan Xoyski pr.,Gənclik metro st., AZ1000",994 50 273 11 94,40.399818,49.850243
+Zeytun Nərimanov 2,PHARMACY,217358,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Təbriz küç.,Nərimanov metro st.çıxışı, AZ1000",994 50 273 11 96,40.402477,49.869465
+Zeytun Koroğlu 2,PHARMACY,217359,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Heydər Əliyev pr.,Koroğlu metro st., AZ1000",994 50 273 11 98,40.420391,49.917557
+Zeytun Neftçilər,PHARMACY,217360,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Qara Qarayev pr.,Neftçilər metro st., AZ1000",994 50 273 11 93,40.410213,49.943398
+Zeytun 28 May,PHARMACY,217361,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Cəfər Cabbarlı meydanı,28 May metro st.girişi, AZ1000",994 50 273 54 10,40.37988158632754,49.84856920488953
+Dokta Şirvan(Mərkəz),PHARMACY,217422,"Azərbaycan Respublikası, Şirvan, Energetik küç.B9, AZ1800",994 55 677 52 64,39.965038,48.945217
+Dokta Salyan,PHARMACY,217423,"Azərbaycan Respublikası, Salyan, Y.Qasımov küç.2G, AZ5200",994 99 311 02 06,39.589581,48.975117
+Dokta Hacıqabul,PHARMACY,217424,"Azərbaycan Respublikası, Hacıqabul, 28 may küç., AZ2400",994 55 692 19 97,40.040112,48.932594
+Dokta Neftçala,PHARMACY,217425,"Azərbaycan Respublikası, Neftçala, 20 yanvar küç., AZ4700",994 50 821 87 44,39.378418,49.246162
+Pharmastore Nizami 1,PHARMACY,217617,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Qara Qrayev pr.65 A, AZ1000",994 55 225 12 53,40.409996,49.943932
+Pharmastore Nizami 2,PHARMACY,217618,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Rüstəm Rüstəmov küç.49, AZ1000",994 51 225 12 34,40.409962,49.942055
+Pharmastore Nizami 3,PHARMACY,217619,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Rüstəm Rüstəmov küç.49, AZ1000",994 55 251 78 03,40.41003,49.942265
+Pharmastore Nizami 4,PHARMACY,217620,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Qara Qarayev pr.61, AZ1000",994 50 251 78 21,40.411823,49.942574
+Pharmastore Nərimanov 1,PHARMACY,217621,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Fətəli Xan Xoyski pr.106, AZ1000",994 50 251 78 30,40.402195,49.859917
+Pharmastore Nərimanov 2,PHARMACY,217622,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Yusif Vəzir Çəmənzəminli küç.40 , AZ1000",994 50 251 78 27,40.402679,49.837093
+Pharmastore Nəsimi 1,PHARMACY,217623,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Dilarə Əliyeva küç.243, AZ1000",994 50 251 78 20,40.379753,49.854069
+Pharmastore Nəsimi 2,PHARMACY,217624,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Tiflis pr.46, AZ1000",994 51 251 78 24,40.405109,49.807919
+Pharmastore Xətai 1,PHARMACY,217625,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Xudu Məmmədov küç.13, AZ1000",994 50 251 78 97,40.372715,49.946301
+Pharmastore Xətai 2,PHARMACY,217626,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Əhmədli ŞTQ, Babək pr.94, AZ1000",994 50 251 78 25,40.394817,49.963726
+Pharmastore Binəqədi1,PHARMACY,217627,"Azərbaycan Respublikası, Bakı, Binəqədi r-nu, Mustafa Kamal Atatürk pr.56, AZ1000",994 50 251 78 29,40.4135793,49.84668
+Pharmastore Yasamal 1,PHARMACY,217628,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Tbilisi pr.59D, AZ1000",994 50 255 12 38,40.400204,49.81044
+Pharmastore Sabunçu,PHARMACY,217629,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Bakixanov ŞTQ,Nazim İsmayılov küç.3 A, AZ1000",994 51 225 12 77,40.430981,49.956596
+Pharmastore Nizami 5,PHARMACY,217895,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Heydər Əliyev pr.119 (Z.Bünyadov ilə H.Əliyev pr. kəsişməsi), AZ1000",994 50 251 51 49,40.422043,49.9165
+Pharmastore Nizami 6,PHARMACY,217909,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Qara Qarayev pr.87D, AZ1000",994 50 251 78 93,40.418213,49.932175
+Pharmastore Nərimanov 3,PHARMACY,217910,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Həsən Əliyev küç.88, AZ1000",994 51 225 12 89,40.402973,49.852028
+Pharmastore Nərimanov 4,PHARMACY,217911,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Təbriz küç.87, AZ1000",994 50 251 78 22,40.401222,49.867924
+Pharmastore Nərimanov 5,PHARMACY,217912,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Mirzəbala Əhmədzadə küç.11, AZ1000",994 50 521 78 23,40.400749,49.871338
+Pharmastore Nəsimi 3,PHARMACY,217913,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Mərdanov qardaşları küç.100A, AZ1000",994 51 207 46 74,40.392422,49.833061
+Pharmastore Nəsimi 4,PHARMACY,217914,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Azadlıq pr.95, AZ1000",994 51 250 19 39,40.391071,49.841682
+Pharmastore Yasamal 2,PHARMACY,217915,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Ələsgər Ələkbərov küç.5 , AZ1000",994 50 251 78 88,40.38044,49.818359
+Pharmastore Yasamal 3,PHARMACY,217916,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Bəşir Səfəroğlu küç.116, AZ1000",994 50 251 78 89,40.373199,49.83305
+Pharmastore Yasamal 4,PHARMACY,217917,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Ələsgər Ələkbərov küç.46Q, AZ1000",994 55 667 96 97,40.368309,49.818352
+Pharmastore Badamdar,PHARMACY,217918,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Abbasqulu Abbaszadə küç.17, AZ1000",994 50 251 78 19,40.392445,49.833046
+Pharmastore Qaradağ,PHARMACY,217920,"Azərbaycan Respublikası, Bakı, Qaradağ r-nu, Lökbatan qəs. ŞTQ Keçid 1594, AZ1000",994 12 445 10 55,40.327824,49.742031
+Vita Binə,PHARMACY,221856,"Azərbaycan Respublikası, Bakı, Xəzər r-nu, Binə qəs.,Ə.İsazadə küç.,""BazarStore"" yanı, AZ1000",994 12 556 17 39,40.450497,50.087822
+Vita Sabunçu,PHARMACY,221858,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Ramana qəs., Ə.Məmmədəliyev küç.7, AZ1000",994 55 224 79 97,40.44497745697422,49.94395595582103
+Vita Real Maştağa,PHARMACY,221859,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Maştağa qəs.,H.Heybətov küç., AZ1000",994 55 444 72 24,40.526169,49.996452
+Dokta Bəhmənli,PHARMACY,221863,"Azərbaycan Respublikası, Füzuli, Bəhmənli kəndi, AZ1900",994 50 579 91 06,39.556942,47.56213
+Dokta Salyan(xəstəxana),PHARMACY,224078,"Azərbaycan Respublikası, Salyan, Salyan-Neftçala yolu 2-ci km, AZ5200",994 70 603 21 11,39.578779,48.98167
+Dokta Şirvan(20 yanvar),PHARMACY,224079,"Azərbaycan Respublikası, Şirvan, 20 yanvar küç. 26A, AZ1800",994 55 815 99 39,39.95707643927668,48.93829505218298
+Dokta Sabirabad,PHARMACY,224080,"Azərbaycan Respublikası, Sabirabad, H.Əliyev küç. 62, AZ5400",994 55 873 73 82,40.007407013941446,48.471153576991334
+Pharmastore Ağ şəhər,PHARMACY,224441,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Xəqani Rüstəmov küç.B6, AZ1000",994 51 206 08 47,40.38356972622132,49.88047313075571
+Pharmastore Abşeron,PHARMACY,224442,"Azərbaycan Respublikası, Abşeron, Xırdalan şəh., H.Əliyev pr.11, AZ0100",994 51 225 16 89,40.446791684014606,49.75093405242407
+Pharmastore Tovuz/Qovlar,PHARMACY,224443,"Azərbaycan Respublikası, Tovuz, Qovlar qəs.,Şəhriyar küç.8, AZ6000",994 51 225 16 86,40.94819769717804,45.7366436831356
+Pharmastore Lerik,PHARMACY,224444,"Azərbaycan Respublikası, Lerik, Nəriman Nərimanov küç.38A, AZ4300",994 51 225 16 85,38.77479054688326,48.417261147529494
+Pharmastore İnşaatçılar,PHARMACY,224445,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, İnşaatçılar m.-su,Şərifzadə küç.148K, AZ1000",994 55 975 93 00,40.38917990516545,49.80311005427182
+Vita Razin Yeni,PHARMACY,225832,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Bakıxanov qəs.,Fətəliyev pr.68, AZ1000",994 55 250 86 57,,
+UNİVERSAL PHARMA,PHARMACY,227920,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, İsmayıl bəy Qutqaşınlı küç.50, AZ1000",994 77 333 30 30,40.36954160528233,49.82096569200668
+Pharmastore Binəqədi 2,PHARMACY,228660,"Azərbaycan Respublikası, Bakı, Binəqədi r-nu, M.Ə.Rəsulzadə qəs.,Rəşid Məmmədov küç.,giriş 108, AZ1000",994 51 225 16 81,40.413528,49.822111
+Pharmastore Şamaxı,PHARMACY,228661,"Azərbaycan Respublikası, Şamaxı, Heydər Əliyev küç.23, AZ5600",994 50 251 78 02,40.63549778741676,48.63926106417606
+Darçın Gömrük hospital,PHARMACY,228776,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Kazım Kazımzadə küç.123, AZ1000",994 99 207 88 06,40.377914,49.818481
+Darçın İnşaatçılar,PHARMACY,228777,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Şərifzadə küç.27A-273E , AZ1000",994 99 207 88 04,40.388622,49.802763
+Darçın Qarayev,PHARMACY,228778,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Özbəkistan küç.9, AZ1000",994 99 207 88 01,40.415476,49.927405
+Darçın Bakı Sağlamlıq Mərkəzi,PHARMACY,228779,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, N.Yusifbəyli küç.90A, AZ1000",994 99 207 88 17,40.397963,49.839439
+Darçın Xırdalan,PHARMACY,228781,"Azərbaycan Respublikası, Xırdalan şəhəri, Heydər Əliyev pros.,AAAF park1",994 99 207 88 16,40.462206,49.726345
+Dokta Lənkəran,PHARMACY,229231,"Azərbaycan Respublikası, Lənkəran, Nizami küç.2, AZ4200",994 51 909 43 52,38.758853,48.839868
+Vegas Optika VIP,OPTICS,20906,"Azərbaycan Respublikası, Bakı, Bünyad Sərdarov küç.16, AZ1000",994 12 492 39 39,40.3686396809954,49.8278308925153
+Vegas Optika Central,OPTICS,39501,"Azərbaycan Respublikası, Bakı, Rəsul Rza küç.16B, AZ1000",994 12 493 49 12,40.3706110653274,49.8406609857776
+Majesty Optika,OPTICS,85263,"Azərbaycan Respublikası, Bakı, Azərbaycan pr.23, AZ1000",994 12 497 15 18,40.37081881434969,49.834091644178976
+AVİS Yasamal,OPTICS,85264,"Azərbaycan Respublikası, Bakı, Əbdürrəhimbəy Haqverdiyev küç.11, AZ1000",994 12 497 06 39,40.3804029844041,49.8182893962416
+Visus Optika İmperial,OPTICS,85266,"Azərbaycan Respublikası, Bakı, Asif Məhərrəmov küç.51K, AZ1000",994 12 480 10 49,40.4122440650946,49.8043086978739
+Visus Optika Azadlıq,OPTICS,85268,"Azərbaycan Respublikası, Bakı, Azadlıq pr.132, AZ1000",994 12 449 79 70,40.40397555814,49.8370067825309
+Optic Gallery,OPTICS,87459,"Azərbaycan Respublikası, Bakı, Füzuli küç.300, AZ1000",994 51 291 36 44,40.3767462706032,49.8351523690114
+AVİS Nərimanov,OPTICS,134927,"Azərbaycan Respublikası, Bakı, Ağa Nemətulla küç.45, AZ1000",994 12 465 92 40,40.4039541315557,49.8708687826615
+AVİS Əhmədli,OPTICS,134929,"Azərbaycan Respublikası, Bakı, Məhəmməd Hadi küç.41, AZ1000",994 12 570 28 53,40.383836229030706,49.95434277090798
+Gilas Optic (İnşaatçılar),OPTICS,214246,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Şərifzadə küç.75A, AZ1000",994 77 489 68 88,40.3847351,49.8007851
+Gilas Optic (Montin),OPTICS,214248,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Mayakovski küç.11-13, AZ1000",994 77 489 98 20,40.39441876254701,49.875367997120385
+Gilas Optic (Əhmədli),OPTICS,214249,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Sarayevo küç.17, AZ1000",994 77 489 00 34,40.38697121165695,49.962250722254716
+Gilas Optic (Gənclik),OPTICS,214251,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Fətəli Xan Xoyski küç.106, AZ1000",994 77 489 99 04,40.4022141,49.8574105
+Gilas Optic ( Elmlər Akademiyası),OPTICS,214252,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, K.Kazımzadə küç.123, AZ1000",994 77 489 09 05,40.3779335,49.8158379
+Gilas Optic (Xalqlar dostluğu),OPTICS,214253,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Bəhruz Nuriyev küç.49, AZ1000",994 77 489 09 30,40.4008331,49.9490967
+Gilas Optik (Atatürk),OPTICS,214254,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Atatürk pr.33, AZ1000",994 77 489 23 63,40.41034125492986,49.84672132780728
+Gilas Optic (Xətai),OPTICS,214255,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Süleyman Vəzirov küç. 22, AZ1000",994 77 489 09 01,40.3835526,49.8696404
+Gilas Optic (Metropark),OPTICS,214278,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Təbriz küç.99M, AZ1000",994 77 489 09 32,40.4040985,49.8704071
+Vegas Optika Ağ şəhər,OPTICS,216555,"Azərbaycan Respublikası, Bakı, Ağ Şəhər Xəqani Rüstəmov küç.70 A, AZ1000",994 12 526 20 67,40.384061,49.880273
+Vegas Optika VIP (Aeterna Pharma),OPTICS,226926,"Azərbaycan Respublikası, Bakı, Bünyad Sərdarov küç.16, AZ1000",994 12 492 39 39,40.3686396809954,49.8278308925153
+Visus (Aeterna Pharma),OPTICS,226927,"Azərbaycan Respublikası, Bakı, Bünyad Sərdarov küç.16, AZ1000",994 12 492 39 39,40.3686396809954,49.8278308925153
+Gilas Optik (Celamig),OPTICS,228259,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Süleyman Rəhimov küç.126/64, AZ1000",994 77 489 23 01,40.37809579664194,49.837139228666466
+Gilas Optik (Keşlə),OPTICS,228260,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Keşlə qəs.,Yavər Səfərov küç.22, AZ1000",994 77 489 99 02,40.39388488571698,49.918897006177744
+32 Gözəl,DENTAL,20075,"Azərbaycan Respublikası, Bakı, Azərbaycan pr.14, AZ1000",994 12 596 73 13,40.3714594681136,49.8335740143823
+AQS Dental Center,DENTAL,23348,"Azərbaycan Respublikası, Sumqayıt, 13-cü mkr.,Babək pr.241, AZ5000",994 18 648 51 41,40.5672644295095,49.6952495271223
+32 Beauty,DENTAL,25199,"Azərbaycan Respublikası, Bakı, Məmməd Araz küç.63, AZ1000",994 12 561 32 80,40.4069386317702,49.8449468387325
+Dəniz Diş,DENTAL,26125,"Azərbaycan Respublikası, Bakı, Lev Tolstoy küç.137, AZ1000",994 12 597 42 04,40.3725824097137,49.8344928462232
+“Dental Studio” Firması,DENTAL,26204,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Mehbalı Zeynalabdiyev küç.6",994 12 598 28 87,40.3798059218529,49.8561749329973
+İmplant Dental,DENTAL,30722,"Azərbaycan Respublikası, Sumqayıt, 6-cı mkr.,Cəlil Məmmədquluzadə küç.77B, AZ5000",994 12 408 21 96,40.58025502686704,49.686044984656824
+Only Dent,DENTAL,34825,"Azərbaycan Respublikası, Bakı, Mirəli Seyidov küç.31-38, AZ1000",994 12 505 07 17,40.376024,49.808104
+Müasir Stomatologiya,DENTAL,37254,"Azərbaycan Respublikası, Sumqayıt, 3-cü məhəllə,Nizami küç. 23/14, AZ5000",994 18 655 48 98,40.5943912757517,49.6696021728493
+Dental (Şirvan),DENTAL,60795,"Azərbaycan Respublikası, Şirvan, Xaqani küç.2A, AZ1800",994 21 215 00 30,39.9611910780652,48.9431932327174
+MediClub Dental,DENTAL,66946,"Azərbaycan Respublikası, Bakı, Mətbuat pr.2, AZ1000",994 12 497 11 41,40.3586596275962,49.8232169800892
+Sağlam Diş Klinikası,DENTAL,71016,"Azərbaycan Respublikası, Bakı, Əlif Hacıyev küç.15, AZ1000",994 12 520 31 51,40.4153344721498,49.9326149914379
+Stomadent,DENTAL,139237,"Azərbaycan Respublikası, Gəncə, Həsən Əliyev küç. 254/42, AZ2000",994 50 337 66 60,40.6782494134391,46.3567463255013
+Sağlam Diş Klinikası 2,DENTAL,139240,"Azərbaycan Respublikası, Bakı, Bakıxanov qəs.,Sakit Qocayev küç.39 A, AZ1000",994 12 429 42 24,40.4168585,49.9644243
+Grand River,DENTAL,181013,"Azərbaycan Respublikası, Mingəçevir, Heydər Əliyev pr.21, AZ4500",994 70 580 84 84,40.7735247530141,47.0457432211598
+Sağlam Diş Klinikası 3,DENTAL,216101,"Azərbaycan Respublikası, Bakı, Tbilisi pr.49B, AZ1000",994 12 525 00 51,40.3947233,49.8147701
+Dövlət Təhlükəsizlik Xidmətinin Hospitalı,CLINIC,23350,"Azərbaycan Respublikası, Bakı, Badamdar qəsəbəsi,Məktəbli küç.1, AZ1000",994 12 405 79 11,40.3387937932481,49.803253260265194
+Assmed,CLINIC,23802,"Azərbaycan Respublikası, Bakı, Qaradağ r-nu, Lökbatan qəs.,Dadaş Bünyadzadə küç.3A, AZ1000",994 12 445 17 17,40.32040127902922,49.73239062670682
+Audiomed Eşitmə Mərkəzi,CLINIC,23890,"Azərbaycan Respublikası, Bakı, Xan Şuşinski küç.73,İnqilab küçəsi ilə kəsişmə , AZ1000",994 55 327 57 50,40.39987771089565,49.83531992500204
+ATU Tədris Terapevtik klinikasi,CLINIC,24066,"Azərbaycan Respublikası, Bakı, Mərdanov qardaşları küç.100, AZ1000",994 12 441 33 18,40.396773943387394,49.83169854142747
+Caspian Hospital,CLINIC,25648,"Azərbaycan Respublikası, Bakı, Badamdar şossesi 31, AZ1000",994 12 502 50 15,40.343251083642905,49.810165264482876
+Celamig Oftalmoloji Klinikası,CLINIC,25867,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Süleyman Rəhimov küç. 126, AZ1000",994 12 537 11 01,40.3783488253587,49.8378236588824
+Dialab klinika,CLINIC,26220,"Azərbaycan Respublikası, Bakı, Istiqlaliyyət küç.31, AZ1000",994 12 492 20 56,40.36568485198131,49.83050131356653
+Vidadi Klinikası,CLINIC,26241,"Azərbaycan Respublikası, Bakı, Vorobski qəs.,Şövkət Məmmədova küç.4C, AZ1000",994 12 563 53 07,40.42087311349817,49.846497915343186
+Əhmədli Tibb Mərkəzi (EskulapMed),CLINIC,26399,"Azərbaycan Respublikası, Bakı, R.Quliyev küç.65, AZ1000",994 12 471 48 41,40.3729283210337,49.94049818008492
+EuroMed Tibb Mərkəzi,CLINIC,26407,"Azərbaycan Respublikası, Bakı, Cavadxan küç.17А, AZ1000",994 12 431 95 98,40.41210901015543,49.81460732329853
+Funda Hospital,CLINIC,29488,"Azərbaycan Respublikası, Bakı, İsmayıl Hidayətzadə küç.163, AZ1000",994 12 567 55 82,40.39418338495211,49.87224092121024
+İnam Tibb Mərkəzi,CLINIC,29606,"Azərbaycan Respublikası, Bakı, Dilarə Əliyeva küç.175, AZ1000",994 12 566 98 77,40.3757734085903,49.8390016041986
+Yeni Gəncə Tibb Mərkəzi,CLINIC,29619,"Azərbaycan Respublikası, Gəncə, 28 may küç. , AZ2000",994 22 254 07 00,40.68525710016973,46.33171202857606
+Liman Klinikası,CLINIC,31090,"Azərbaycan Respublikası, Sumqayıt, Səməd Vurğun küç.35, AZ5000",994 12 585 14 21,40.580480075247934,49.68987321780956
+Mərkəzi Klinik Xəstaxana,CLINIC,32557,"Azərbaycan Respublikası, Bakı, Parlament pr.76 , AZ1000",994 12 437 63 91,40.361441226156224,49.82482127611631
+Medservis,CLINIC,32628,"Azərbaycan Respublikası, Bakı, Cəlil Məmmədquluzadə küç.3, AZ1000",994 12 596 68 44,40.37908177301388,49.83324243415053
+MedEra Hospital,CLINIC,32629,"Azərbaycan Respublikası, Bakı, Əcəmi Naxçivani küç. 53, AZ1000",994 12 563 56 12,40.416438912130815,49.84153178340187
+MediClub MMM,CLINIC,32641,"Azərbaycan Respublikası, Bakı, Səbail r-nu, Üzeyir Hacıbəyli küç.119, AZ1000",994 12 497 09 11,40.3760681236773,49.856040386159556
+MediClub Gürcüstan,CLINIC,32643,"Gürcüstan, Tbilisi ş.,Taşkent küç.22",,41.728552259543214,44.763458015343176
+Medistyle Hospital,CLINIC,32649,"Azərbaycan Respublikası, Bakı, Əhməd Rəcəbli küç.18, AZ1000",994 12 465 73 79,40.40701990518998,49.863225545747724
+Leyla Medical Center,CLINIC,34585,"Azərbaycan Respublikası, Bakı, Yusif Səfərov küç.19, AZ1000",994 12 490 21 31,40.382012841323196,49.863398073728966
+OKİ Hospital,CLINIC,34793,"Azərbaycan Respublikası, Qusar, Fəxrəddin Musayev küç.27, AZ3800",994 23 385 29 15,41.42577863187099,48.43068533413042
+Oksigen Klinik Xəstəxanası,CLINIC,34794,"Azərbaycan Respublikası, Bakı, Təbriz küç.189, AZ1000",994 12 465 00 23,40.40364721432091,49.87000594700577
+SAF hospital,CLINIC,34832,"Azərbaycan Respublikası, Bakı, Yusif Vəzir Çəmənzəmənli küç.18, AZ1000",994 12 440 51 11,40.401810288517744,49.833352130332955
+Baku Medical Plaza,CLINIC,35142,"Azərbaycan Respublikası, Bakı, Xətai r-nu, Babək pr.92, AZ1142",994 12 404 41 90,40.39435107374275,49.96457346867894
+Real Tibb Mərkəzi,CLINIC,36741,"Azərbaycan Respublikası, Sumqayıt, 45-ci məhəllə, AZ5000",994 12 447 04 28,40.580475818944095,49.68104758347839
+Milli İdman Tibb və Reabilitasiya Elmi-Praktiki İnstitutu,CLINIC,36867,"Azərbaycan Respublikası, Bakı, Nərimanov r-nu, Olimpiya küç. 4A, AZ1000",994 12 525 83 09,40.398933722025774,49.85546771990948
+Respublika Diaqnostika Mərkəzi,CLINIC,36868,"Azərbaycan Respublikası, Bakı, Tbilisi pr.47, AZ1000",994 12 530 07 53,40.39979150227317,49.810396180866
+Sağlam Ailə Klinikası,CLINIC,37507,"Azərbaycan Respublikası, Bakı, Əhməd Rəcəbli küç.3, AZ1000",994 12 910,40.4094562209261,49.86202519027365
+Səhhət klinikası,CLINIC,37884,"Azərbaycan Respublikası, Bakı, Qara Qarayev küç.103, AZ1000",994 12 370 60 42,40.39598833745878,49.95395186944589
+Şəfa Tibbi Diaqnostika Mərkəzi,CLINIC,38105,"Azərbaycan Respublikası, Mingəçevir, Xan Şuşinski küç.2A, AZ4500",994 24 275 35 58,40.75939925915707,47.054668627126645
+Ömürdən Pay klinikası,CLINIC,39210,"Azərbaycan Respublikası, Bərdə, Nəriman Nərimanov küç.2, AZ0900",994 20 205 31 00,40.3739433064356,47.1214125700385
+Türk-Amerika Tibb Mərkəzi,CLINIC,39309,"Azərbaycan Respublikası, Bakı, Yusif Vəzir Çəmənzəminli küç.18., AZ1000",994 12 541 58 45,40.40197584944894,49.83438902711888
+Uni Klinika,CLINIC,39351,"Azərbaycan Respublikası, Bakı, Kazım Kazımzadə küç.99, AZ1000",994 12 510 80 60,40.376867690678324,49.81829128933208
+Avrasiya klinikası,CLINIC,39677,"Azərbaycan Respublikası, Bakı, Binəqədi r-nu, Azadlıq pr.189, AZ1000",994 12 563 00 25,40.42460389405887,49.83760765020075
+Xüsusi Müalicə Sağlamlıq Kompleksi,CLINIC,39934,"Azərbaycan Respublikası, Bakı, Badamdar şossesi 31, AZ1000",994 12 498 85 07,40.35317714582818,49.80936425820475
+Medican Hospital,CLINIC,42250,"Azərbaycan Respublikası, Lənkəran, 20 Yanvar küç.71, AZ4200",994 25 255 02 98,38.75477054898792,48.83749752419758
+Azərbaycan Respublikası Dövlət Gömrük Komitəsi Tibbi Xidmət İdarəsinin Mərkəzi Hospitalı,CLINIC,42364,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Kazım Kazımzadə küç.118, AZ1000",994 12 539 78 04,40.378194352337566,49.81880619828199
+Spero Hospital,CLINIC,42539,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, 20 Yanvar küç.1 B, AZ1000",994 12 430 43 03,40.411583358451345,49.80378472022895
+Astoriya Tibb Mərkəzi (German Medical Center) (ancaq doğuş yardımı),CLINIC,42553,"Azərbaycan Respublikası, Bakı, İsmayılbəy Qutqaşınlı küç.50, AZ1000",994 12 538 66 60,40.3696494599048,49.8212431712285
+ATU Tədris Cərrahiyyə klinikası,CLINIC,45543,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Səməd Vurğun küç.155, AZ1000",994 12 449 82 54,40.392423337412446,49.833976713389056
+Şəfa Özəl Tibb Mərkəzi,CLINIC,49195,"Azərbaycan Respublikası, Naxçıvan, Cəlil Məmmədquluzadə küç.13, AZ7000",994 36 545 64 32,39.2010767969337,45.4115281110769
+Gəncə Beynəlxalq Xəstəxanası,CLINIC,57381,"Azərbaycan Respublikası, Gəncə, Heydər Əliyev pr. 60D/E/F, AZ2000",994 22 255 38 38,40.6948521021965,46.3665090837076
+Medisan Tibb Mərkəzi,CLINIC,59562,"Azərbaycan Respublikası, İmişli, Heydər Əliyev pr.131, AZ3000",994 21 246 10 70,39.8696032994925,48.0599886978573
+Sədəf klinikası,CLINIC,74417,"Azərbaycan Respublikası, Bakı, Qaradağ r-nu, Sahil qəs.,B.Əliyev küç.33, AZ1000",994 12 446 33 04,40.2206569521924,49.5743047310106
+Regional Hospital,CLINIC,75693,"Azərbaycan Respublikası, Mingəçevir, Dilarə Əliyeva küç.2 C, AZ4500",994 70 328 77 71,40.7752494213295,47.0482523784252
+LabMed Tibb Mərkəzi,CLINIC,75831,"Azərbaycan Respublikası, Qazax, Heydər Əliyev küç.134 , AZ3500",994 50 385 17 37,41.0935537211826,45.3692075357829
+MediClub Kids,CLINIC,76679,"Azərbaycan Respublikası, Bakı, Izzət Nəbiyev küç.30A, AZ1000",994 12 525 09 19,40.3589253516272,49.822939348489925
+MediClub hospital,CLINIC,76680,"Azərbaycan Respublikası, Bakı, Yasamal r-nu, Əlövsət Quliyev küç.73, AZ1000",994 12 493 51 52,40.37351761969728,49.83448431388822
+Alyans Klinika,CLINIC,79341,"Azərbaycan Respublikası, Şəki, Mirzə Fətəli Axundov küç.351A, AZ5500",994 55 925 55 11,41.19790738200594,47.1786367914407
+Bioloji Təbabət Klinikası (Göyçay),CLINIC,79372,"Azərbaycan Respublikası, Göyçay, M. Muradov küç,12, AZ2300",994 50 246 14 11,40.65267127653047,47.74018865403999
+Bioloji Təbabət klinikası (Masallı),CLINIC,79374,"Azərbaycan Respublikası, Masallı, Elşad Hüseynov küç., AZ4400",994 55 532 89 88,39.022252352477715,48.680223701847716
+Sağlam Həyat Tibb Mərkəzi,CLINIC,81924,"Azərbaycan Respublikası, Qəbələ, Həzi Aslanov küç.86, AZ3600",994 70 633 03 60,40.97655224733721,47.85340802113553
+Naxçıvan Diaqnostika Müalicə Məkəzı,CLINIC,81925,"Azərbaycan Respublikası, Naxçıvan, Əziz Əliyev küç.66, AZ7000",994 70 656 78 25,39.21669215647405,45.420613334929804
+Vita Med Tibb Mərkəzi,CLINIC,82263,"Azərbaycan Respublikası, Biləsuvar, Mübariz İbrahimov küç.224B, AZ1300",994 51 795 00 08,39.45588825006662,48.54364630497959
+Mərkəzi Klinika Ambulatoriya,CLINIC,85258,"Azərbaycan Respublikası, Bakı, Zərifə Əliyeva küç.5 , AZ1000",994 12 437 63 91,40.368730016714984,49.839212688284356
+Mərkəzi Klinika Gəncə,CLINIC,85262,"Azərbaycan Respublikası, Gəncə, Totanlı küç.17, AZ2000",994 22 264 09 09,40.65940561809371,46.33867746945165
+Sumqayıt Hospital,CLINIC,98753,"Azərbaycan Respublikası, Sumqayıt, 12-ci mkr.,Çerkassi küç.181, AZ5000",994 18 656 82 55,40.5630743556776,49.68480066115032
+LabStyle Hospital,CLINIC,132199,"Azərbaycan Respublikası, Zaqatala, Molla Vəli Vidadi küç.34, AZ6200",994 50 385 17 37,41.62855300714787,46.64032026112237
+Bonum Medical Klinika,CLINIC,132211,"Azərbaycan Respublikası, Şəki, Zərifə Əliyeva küç.90, AZ5500",994 50 663 00 88,41.15705898760602,47.1786562048345
+Referans Qəbələ Tibb Mərkəzi,CLINIC,136872,"Azərbaycan Respublikası, Qəbələ, Abbas Səhhət küç.25A, AZ3600",994 77 760 00 33,40.967117961692665,47.843301401421115
+Şirvan Oil Tibb Məntəqəsi,CLINIC,139239,"Azərbaycan Respublikası, Şirvan, Gülbala-Şıxbala küç.74, AZ1800",994 55 640 41 48,39.938632969286196,48.92664797806881
+Medical Center Tibb Mərkəzi,CLINIC,164444,"Azərbaycan Respublikası, Tovuz, Mirzə Ələkbər Sabir küç.13, AZ6000",994 22 315 66 97,40.987720766605385,45.606466359536235
+Bakı Sağlamlıq Mərkəzi,CLINIC,167515,"Azərbaycan Respublikası, Bakı, Azadlıq pr.112, AZ1000",994 12 440 94 53,40.3985239695302,49.839154848506496
+Tovuz Medical Center,CLINIC,167583,"Azərbaycan Respublikası, Tovuz, M. Ə. Sabir küç, 13, AZ6000",994 22 315 66 97,40.987767,45.606495
+Nəbz Tibb Mərkəzi,CLINIC,187311,"Azərbaycan Respublikası, Bakı, Qara Qarayev pr.31A, AZ1000",994 12 421 31 20,40.417687,49.935967
+HB Güvən klinikası,CLINIC,187842,"Azərbaycan Respublikası, Bakı, Atatürk pr.3078, AZ1000",994 12 436 14 96,40.416557125900184,49.844635796198126
+Referans Mərdəkan hospital,CLINIC,189652,"Azərbaycan Respublikası, Bakı, Xəzər r-nu, Mərdəkan qəs.,Yesenin küç.92/1 və 92/2, AZ1000",994 12 310 00 22,40.487736,50.154125
+Müasir Diaqnostika Mərkəzi,CLINIC,191483,"Azərbaycan Respublikası, Bakı, Rəşid Behbudov küç.128, AZ1000",994 12 910,40.38270959174409,49.84333185767159
+Kəpəz Hospital,CLINIC,191730,"Azərbaycan Respublikası, Bakı, Nəsimi r-nu, Cəlil Məmmədquluzadə küç.101A, AZ1000",994 12 449 67 57,40.39817449645351,49.82665722945568
+Xəzər klinikası,CLINIC,215760,"Azərbaycan Respublikası, Bakı, Qara Qarayev küç.69, AZ1000",994 12 422 03 10,40.408136833926875,49.946128696925776
+Aran klinikası,CLINIC,217386,"Azərbaycan Respublikası, Salyan, Taleh Davudzadə küç.123, AZ5200",994 70 367 00 52,39.596859,48.985989
+Məlhəm Beynəlxalq Hospital,CLINIC,222026,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Cəmşid Naxçıvanskı küç.433, AZ1000",994 51 201 71 29,40.4077731439643,49.95480598835794
+MedSun klinika,CLINIC,223401,"Azərbaycan Respublikası, Şamaxı, Azərbaycan küç.15, AZ5600",994 10 336 01 01,40.63703673685205,48.64226585109967
+Stimul Hospital,CLINIC,224473,"Azərbaycan Respublikası, Bakı, Sabunçu r-nu, Bakıxanov qəs.,Yavər Əliyev küç.26, AZ1000",994 12 425 66 86,40.43370733843161,49.95642085281735
+Modern Hospital,CLINIC,224474,"Azərbaycan Respublikası, Bakı, Nizami r-nu, Babək pr.,2389-cu məhəllə , AZ1000",994 12 570 20 20,40.395445144114326,49.946984940560164
+Referans Xırdalan Tibb Mərkəzi,CLINIC,225842,"Azərbaycan Respublikası, Xırdalan şəhəri, H.Əliyev pr.167 AAAF Park",994 70 316 00 33,40.460388,49.725185
+Referans NaxçıvanTibb Mərkəzi,CLINIC,228696,"Azərbaycan Respublikası, Naxçıvan, 11-ci məhəllə, AZ7000",994 60 600 00 33,39.202957,45.428959
+Turan Tibb Mərkəzi (Referans Tovuz),CLINIC,229314,"Azərbaycan Respublikası, Tovuz, Şəhriyar küç., AZ6000",994 70 359 00 33,40.992882,45.615613
+Sağlam Nəfəs Müalicə və Reabilitasiya Mərkəzi,CLINIC,229423,"Azərbaycan Respublikası, Gəncə, Mahrasa Bağı,Dədə Yediyar küç.170, AZ2000",994 55 860 01 03,40.675889,46.340697
